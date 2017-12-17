@@ -1,6 +1,7 @@
 #include<stdio.h>
 void main()
 {
+scanf(" %d ",&f);
 printf("hello world")
 }
 
